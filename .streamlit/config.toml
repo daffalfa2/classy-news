@@ -1,0 +1,9 @@
+[theme]
+primaryColor='#FF8E00'
+backgroundColor='#003366'
+secondaryBackgroundColor='#012347'
+textColor='#FFFFFF'
+font='sans serif'
+
+[global]
+dataFrameSerialization = 'legacy'
